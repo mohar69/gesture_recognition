@@ -19,8 +19,9 @@ The Django app for capturing non-manual features of Indian Sign Language (ISL) i
 </details>
 
 # Source Data
-(https://zenodo.org/records/4010759)
-
+```
+    https://zenodo.org/records/4010759
+```
 
 # Preprocessing
 - Extract Landmarks: Use MediaPipe's Holistic model or pose detection model to extract key landmarks from the frames of a video.
