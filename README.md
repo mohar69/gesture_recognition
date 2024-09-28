@@ -15,7 +15,7 @@ The objective of this project is to develop a system that accurately captures an
 The Django app for capturing non-manual features of Indian Sign Language (ISL) is designed to process video input, detect facial expressions, head movements, and body gestures, and convert these non-manual features into text. The app utilizes machine learning models integrated with Django’s backend to handle data processing and feature recognition. Users can upload video content, and the app will analyze the non-manual cues in ISL, translating them into meaningful text output. This app aims to enhance accessibility and improve the accuracy of ISL translation by incorporating essential non-manual elements.
 <br>
 # Website overview
-<img src = 'images/output.jpeg' width='800' height='600'>
+<img src = 'images/output.jpeg' width='1000' height='600'>
 </details>
 
 # Source Data
